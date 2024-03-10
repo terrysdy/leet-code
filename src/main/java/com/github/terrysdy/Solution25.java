@@ -2,6 +2,9 @@ package com.github.terrysdy;
 
 import java.util.Objects;
 
+/**
+ * <a href='https://leetcode.cn/problems/reverse-nodes-in-k-group/description/'>K 个一组翻转链表</a>
+ */
 public class Solution25 {
 
     public static ListNode reverseKGroup(ListNode head, int k) {

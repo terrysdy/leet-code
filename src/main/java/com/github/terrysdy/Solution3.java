@@ -8,7 +8,7 @@ import java.util.Set;
 /**
  * <a href='https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/'>3. 无重复字符的最长子串</a>
  */
-public class Solutiuon3 {
+public class Solution3 {
 
 
     public static int lengthOfLongestSubstring(String s) {
